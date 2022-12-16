@@ -47,14 +47,8 @@ Demo Video :
 
 https://user-images.githubusercontent.com/119149923/208107069-ceb80a61-f916-4c7f-9490-18156fc101c7.mp4
 
-
-
 ## Home
 ![Screenshot 2022-12-16 183837](https://user-images.githubusercontent.com/119149923
-
-https://user-images.githubusercontent.com/119149923/208106969-5abf1b92-c8aa-404f-b012-9aca7c418758.mp4
-
-/208105503-87e7eb43-d693-4dc7-b133-eb7d7fb6525e.jpg)
 ![Screenshot 2022-12-16 183939](https://user-images.githubusercontent.com/119149923/208105509-a4c18485-cac6-423a-9bc6-baa7b68c3df6.jpg)
 
 ## About
