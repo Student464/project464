@@ -5,7 +5,7 @@ Description :
 ## Azure technologies used for Project
 
 - Static web apps
-- Health bot
+- App Services
 
 ## Features and Functionalities 😃
 
