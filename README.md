@@ -41,6 +41,10 @@ Static Web App URL : https://red-pond-019c70b00.2.azurestaticapps.net
 
 App Services URL : https://medicalcare.azurewebsites.net
 
+Project Demo URL : https://red-pond-019c70b00.2.azurestaticapps.net
+
+Demo Video :
+https://user-images.githubusercontent.com/119149923/208106630-94b21ce4-b5a6-4b79-9c29-82e7454fab32.mp4
 
 ## Home
 ![Screenshot 2022-12-16 183837](https://user-images.githubusercontent.com/119149923/208105503-87e7eb43-d693-4dc7-b133-eb7d7fb6525e.jpg)
