@@ -2,11 +2,6 @@
 
 Description : 
 
-## Azure technologies used for Project
-
-- Static web apps
-- App Services
-
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
@@ -18,7 +13,7 @@ Description :
 
 This is a web based application developed for health related based website in india
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
@@ -63,3 +58,12 @@ https://user-images.githubusercontent.com/119149923/208107069-ceb80a61-f916-4c7f
 ## Azure Services Used
 
 ![Screenshot 2022-12-16 184336](https://user-images.githubusercontent.com/119149923/208106147-3bcbc94f-4d77-498b-b3b0-420654b33253.jpg)
+
+## Static Web App Technology
+
+![Screenshot 2022-12-23 193329](https://user-images.githubusercontent.com/119149923/209348666-cde379ef-da7a-4dd3-9494-67ecd724d03b.jpg)
+
+## App Service Technology
+
+![Screenshot 2022-12-23 193351](https://user-images.githubusercontent.com/119149923/209348745-787bb8c6-edbe-44d2-8a69-73e7b3c000f8.jpg)
+
