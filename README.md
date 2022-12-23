@@ -1,8 +1,7 @@
 # ✨  MEDICAL CARE ✨
 
-Description : 
 
-## Features and Functionalities 😃
+## Description Features and Functionalities 😃
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
